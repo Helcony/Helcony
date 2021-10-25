@@ -1,12 +1,13 @@
 ### Hi there, I am Sarah!
 
 I'm a junior web and game developer!
- 
+<img align="right" height="150" src="https://media.discordapp.net/attachments/788946840845549568/902328235336015902/github.gif">
 Currently:
 - 💪 Building my personal portfolio
 - 🎉 Improving my JS and CSS skills
 - 😎 Learning React and Tailwind
 - 🎮 Working on a browser video game
+
 
 ##
 
@@ -23,7 +24,6 @@ Currently:
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="right" height="150" src="https://media.discordapp.net/attachments/788946840845549568/902328235336015902/github.gif">
 </div>
 
 <!--   <div> 

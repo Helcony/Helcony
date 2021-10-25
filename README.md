@@ -1,5 +1,15 @@
 ### Hi there, I am Sarah!
 
+I'm a junior web and game developer!
+ 
+Currently:
+- 💪 Building my personal portfolio
+- 🎉 Improving my JS and CSS skills
+- 😎 Learning React and Tailwind
+- 🎮 Working on a browser video game
+
+##
+
 <div align="center">
   <a href="#">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Helcony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,17 +25,7 @@
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="right" height="150" src="https://media.discordapp.net/attachments/788946840845549568/902328235336015902/github.gif">
 </div>
-  
-  ##
-  
-<p>I'm a junior web and game developer!
- 
-Currently:
-- 💪 Building my personal portfolio
-- 🎉 Improving my JS and CSS skills
-- 😎 Learning React and Tailwind
-- 🎮 Working on a browser video game
-  </p>
+
 <!--   <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

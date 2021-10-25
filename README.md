@@ -1,7 +1,7 @@
 ### Hi there, I am Sarah!
-
-I'm a junior web and game developer!
 <img align="right" height="150" src="https://media.discordapp.net/attachments/788946840845549568/902328235336015902/github.gif">
+I'm a junior web and game developer!
+
 Currently:
 - 💪 Building my personal portfolio
 - 🎉 Improving my JS and CSS skills

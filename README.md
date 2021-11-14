@@ -6,7 +6,7 @@ Currently:
 - 💪 Building my personal portfolio
 - 🎉 Improving my JS and CSS skills
 - 😎 Learning React and Tailwind
-- 🎮 Working on a browser video game
+- 🎮 Working on an Unity video game
 
 
 ##

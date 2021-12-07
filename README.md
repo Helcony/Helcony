@@ -1,12 +1,11 @@
 ### Hi there, I am Sarah!
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/788946840845549568/902356937730039908/cat-typing.gif">
-I'm a junior web and game developer!
+I'm a junior web developer!
 
 Currently:
 - 💪 Building my personal portfolio
 - 🎉 Improving my JS and CSS skills
-- 😎 Learning React and Tailwind
-- 🎮 Working on an Unity video game
+- 😎 Learning React and Node.js
 
 
 ##

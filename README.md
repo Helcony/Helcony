@@ -3,7 +3,7 @@
 I'm a junior web developer!
 
 Currently:
-- 💪 Building my first full stack app
+- 💪 Part of the #100DaysOfCode challenge
 - 🎉 Improving my React and CSS skills
 - 😎 Building my first full stack app
 

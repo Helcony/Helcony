@@ -3,9 +3,9 @@
 I'm a junior web developer!
 
 Currently:
-- 💪 Building my personal portfolio
-- 🎉 Improving my JS and CSS skills
-- 😎 Learning React and Node.js
+- 💪 Building my first full stack app
+- 🎉 Improving my React and CSS skills
+- 😎 Building my first full stack app
 
 
 ##

@@ -2,7 +2,7 @@
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/788946840845549568/902356937730039908/cat-typing.gif">
 I'm a junior web developer!
 
-Currently:
+I am currently:
 - 💪 Part of the #100DaysOfCode challenge
 - 🎉 Improving my React and CSS skills
 - 😎 Building my first full stack app

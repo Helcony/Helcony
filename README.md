@@ -5,7 +5,7 @@ I'm a junior web developer!
 I am currently:
 - 😎 Building my first full stack app
 - 💪 Part of the #100DaysOfCode challenge - day 59
-- 🎉 Improving my React and CSS skills
+- 🎉 Improving my React and JS skills
 
 
 ##

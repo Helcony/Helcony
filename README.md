@@ -15,7 +15,7 @@ I am currently:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Helcony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helcony&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<embed src="https://wakatime.com/share/@d3a354e7-d60d-4ccb-82d6-b30e236bacf0/b68dafae-4f70-4c5c-8009-3cab12837e30.svg"></embed>
+<img><embed src="https://wakatime.com/share/@d3a354e7-d60d-4ccb-82d6-b30e236bacf0/b68dafae-4f70-4c5c-8009-3cab12837e30.svg"></embed><img>
 <div style="display: inline_block"><br>
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

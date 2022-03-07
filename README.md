@@ -3,7 +3,7 @@
 I'm a junior web developer!
 
 I am currently:
-- 😎 Building a personal project
+- 😎 Building my personal portfolio
 - 💪 Part of the #100DaysOfCode challenge - day 78
 - 🎉 Improving my CSS and JS skills
 

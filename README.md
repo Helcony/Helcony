@@ -1,5 +1,5 @@
 ### Hi there, I am Sarah!
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/788946840845549568/902356937730039908/cat-typing.gif">
+<img align="right" height="150" src="https://tenor.com/view/bongo-cat-codes-gif-22068584">
 I'm a junior web developer!
 
 I am currently:

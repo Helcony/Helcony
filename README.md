@@ -1,5 +1,5 @@
 ### Hi there, I am Sarah!
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/948384722428514334/960286403919482981/unknown.png">
+<!-- <img align="right" height="150" src="https://cdn.discordapp.com/attachments/948384722428514334/960286403919482981/unknown.png"> -->
 I'm a junior web developer!
 
 I am currently:

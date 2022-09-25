@@ -1,11 +1,11 @@
 ### Hi there, I am Sarah!
 <!-- <img align="right" height="150" src="https://cdn.discordapp.com/attachments/948384722428514334/960286403919482981/unknown.png"> -->
-I'm a junior web developer!
+I'm a junior software developer!
 
 I am currently:
 - 😎 Building my personal portfolio
 - 💪 Part of the #100DaysOfCode challenge - day 99
-- 🎉 Improving my CSS and JS skills
+- 🎉 Improving my python and JS skills
 
 <!-- ## -->
 

@@ -4,7 +4,6 @@ I'm a junior software developer!
 
 I am currently:
 - 😎 Building my personal portfolio
-- 💪 Part of the #100DaysOfCode challenge - day 99
 - 🎉 Improving my python and JS skills
 
 <!-- ## -->

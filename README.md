@@ -1,5 +1,5 @@
 ### Hi there, I am Sarah!
-<img align="right" height="150" src="[https://tenor.com/view/typing-laptop-cat-busy-cute-gif-5822667.gif">
+<img align="right" height="150" src="[[https://tenor.com/view/typing-laptop-cat-busy-cute-gif-5822667.gif](https://cdn.discordapp.com/attachments/1292922946863763547/1292923227236077699/Lonely_Lights.gif?ex=67058016&is=67042e96&hm=4552ac6d9bb5e442fc118b4dc8c22d7e3bec3a5011e8581a1159e7ac9d4f963f&)">
 I'm a junior software developer!
 
 I am currently:

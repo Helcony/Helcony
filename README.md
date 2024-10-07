@@ -1,6 +1,6 @@
 ### Heya! What can I get you today?
 
-<img vertical-align="middle" height="150" src="https://github.com/Helcony/Helcony/blob/92c68a809eaaf3847d5474d321915f4ad604b04c/welcome.gif">
+<img align="center" height="150" src="https://github.com/Helcony/Helcony/blob/92c68a809eaaf3847d5474d321915f4ad604b04c/welcome.gif">
 
 Here, you'll mainly find DevSecOps, Automation, Application Security, and Cloud Security study notes and hands on projects. <br/>
 <br/>

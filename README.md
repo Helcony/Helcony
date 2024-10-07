@@ -1,5 +1,5 @@
-### Hi there, I am Sarah!
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1292922946863763547/1292923227236077699/Lonely_Lights.gif?ex=67058016&is=67042e96&hm=4552ac6d9bb5e442fc118b4dc8c22d7e3bec3a5011e8581a1159e7ac9d4f963f&">
+### Heya! What can I get you today?
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1292922946863763547/1292926551318466570/ezgif-1-44cd43a457.gif?ex=6705832f&is=670431af&hm=2a70bdfa845ccc11ae6f2bbb10420ce9640acfaedf4107a76853f06495404af5&">
 I'm a junior software developer!
 
 I am currently:

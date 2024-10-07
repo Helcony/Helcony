@@ -9,7 +9,7 @@
   </p>
 
 
-  I'm a cybersecurity analyst and part-time Full Stack developer. <br/>
+  I'm a Cybersecurity analyst and part-time Full Stack developer. <br/>
   
   Here, you'll find many (hopefully finished) security and development projects and study notes related to:
   > DevSecOps<br/>

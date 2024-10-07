@@ -1,5 +1,5 @@
 ### Heya! What can I get you today?
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1292922946863763547/1292926551318466570/ezgif-1-44cd43a457.gif?ex=6705832f&is=670431af&hm=2a70bdfa845ccc11ae6f2bbb10420ce9640acfaedf4107a76853f06495404af5&">
+<img align="right" height="150" src="https://github.com/Helcony/Helcony/blob/92c68a809eaaf3847d5474d321915f4ad604b04c/welcome.gif">
 I'm a junior software developer!
 
 I am currently:

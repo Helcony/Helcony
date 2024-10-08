@@ -23,7 +23,7 @@
   
   | My toolkit and expertise |
   |----------------------|
-  | - Python for automation <br/> - MERN stack for web development <br/> - Git & GitHub for VS <br/> - GitLab CI, Jenkins, and Azure Pipelines for CI/CD <br/> - SonarQube & checkmarx for SAST <br/> - Burp Suite for DAST <br/> - Snyk & OWASP Dependency-Check for SCA <br/> - Checkmarx for IAS <br/> - Docker Bench for Security for container security <br/> - Terraform for IaC security <br/> - Azure Key Vault for secrets management <br/> - Postman and Burp Suite for API security <br/> - Splunk Phantom for SOAR <br/> - Splunk, ELK Stack, & Azure Sentinel for SIEM <br/> - Nessus, OpenVas, & Qualys for vulnerability management <br/> - OpenSCAP for compliance <br/> - Promotheus for monitoring & logging <br/> - Azure Security Center, AWS Config, & Google Cloud <br/>Security Command Center for cloud security |
+  | - Python for automation <br/> - MERN stack for web development <br/> - Git & GitHub for version control<br/> - GitLab CI, Jenkins, & Azure Pipelines for CI/CD <br/> - SonarQube & checkmarx for SAST <br/> - Burp Suite for DAST <br/> - Snyk & OWASP Dependency-Check for SCA <br/> - Checkmarx for IAS <br/> - Docker Bench for Security for container security <br/> - Terraform for IaC security <br/> - Azure Key Vault for secrets management <br/> - Postman and Burp Suite for API security <br/> - Splunk Phantom for SOAR <br/> - Splunk, ELK Stack, & Azure Sentinel for SIEM <br/> - Nessus, OpenVas, & Qualys for vulnerability management <br/> - OpenSCAP for compliance <br/> - Promotheus for monitoring & logging <br/> - Azure Security Center, AWS Config, & Google Cloud <br/>Security Command Center for cloud security |
   
   </div>
 

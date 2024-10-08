@@ -11,7 +11,7 @@
 
   I'm a Cybersecurity engineer and part-time Full Stack developer. <br/>
   
-  Here, you'll find many (hopefully finished) security and development projects and study notes related to:
+  Here, you'll find my (hopefully finished) security and development projects and study notes related to:
   > DevSecOps<br/>
   > Automation<br/>
   > Application Security<br/>

@@ -8,7 +8,7 @@
   </p>
 
 
-  I'm an Application Security analyst and part-time developer. <br/>
+  I'm an Application Security analyst, part-time developer, and overall Security enthusiast. <br/>
   
   Here, you'll find my (hopefully finished) security projects and study notes related to:
   > DevSecOps<br/>
